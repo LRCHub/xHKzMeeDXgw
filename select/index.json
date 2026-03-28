@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "フラットライン",
+  "base_artist": "紫 今",
+  "createdAt": "2026-03-28T16:41:29.398099Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フラットライン",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/01_フラットライン_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フラットライン",
+      "artist": "Kikuo feat. Hatsune, Miku",
+      "has_synced": false,
+      "path": "select/02_フラットライン_Kikuo_feat._Hatsune,_Miku.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フラットライン",
+      "artist": "きくお",
+      "has_synced": true,
+      "path": "select/03_フラットライン_きくお.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フラットライン",
+      "artist": "Kikuo (きくお)",
+      "has_synced": true,
+      "path": "select/04_フラットライン_Kikuo_(きくお).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フラットライン - Flatline (feat. Hatsune Miku)",
+      "artist": "KIKUO",
+      "has_synced": true,
+      "path": "select/05_フラットライン_-_Flatline_(feat._Hatsune_Miku)_KIKUO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フラットライン (feat. Hatsune Miku)",
+      "artist": "Kikuo",
+      "has_synced": false,
+      "path": "select/06_フラットライン_(feat._Hatsune_Miku)_Kikuo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フラットライン",
+      "artist": "紫今",
+      "has_synced": false,
+      "path": "select/pl_01_フラットライン_紫今.txt"
+    }
+  ]
+}
